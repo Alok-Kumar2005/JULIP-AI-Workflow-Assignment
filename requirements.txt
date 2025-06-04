@@ -1,0 +1,4 @@
+julep
+ipykernel
+python-dotenv
+pyyaml
